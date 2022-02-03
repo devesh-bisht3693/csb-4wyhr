@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devesh-bisht3693.github.io/csb-4wyhr/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/runtime-main.b7ec74d1.js",
+    "runtime-main.js.map": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/runtime-main.b7ec74d1.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://devesh-bisht3693.github.io/csb-4wyhr/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://devesh-bisht3693.github.io/csb-4wyhr/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://devesh-bisht3693.github.io/csb-4wyhr/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7ec74d1.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
